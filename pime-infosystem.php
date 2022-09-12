@@ -352,3 +352,4 @@ class PIME_Admin_Notice {
 }
 
 new PIME_Admin_Notice();
+new Plugin_Updater();
